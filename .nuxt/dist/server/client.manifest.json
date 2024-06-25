@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/stefan/Development/playground/nuxt-layouts/node_modules/.pnpm/nuxt@3.12.2_@opentelemetry+api@1.9.0_vite@5.3.1/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/home/stefan/Development/playground/nuxt-layouts/node_modules/.pnpm/nuxt@3.12.2_@opentelemetry+api@1.9.0_vite@5.3.1/node_modules/nuxt/dist/app/entry.js"
+  }
+}
